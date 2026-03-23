@@ -1,0 +1,5 @@
+= Amplify Console CLI
+
+https://info.amplify.security/[Amplify Console] is an agentic security harness purpose-built for Security Engineers.
+
+This repository is currently a work-in-progress. Please contact Amplify directly if you need assistance.
